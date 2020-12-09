@@ -12,4 +12,7 @@ dependencies:
   crystal_lib:
     github: crystal-lang/crystal_lib
 
+scripts:
+  postinstall: make
+
 license: Apache-2.0
